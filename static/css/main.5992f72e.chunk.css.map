@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,cACE,oBAAa,CAAb,YAAa,CACb,6BAAA,CAAA,qBAAsB,CAFxB,oCAII,WAAY","file":"main.5992f72e.chunk.css","sourcesContent":[".buttonsBlock {\n  display: flex;\n  flex-direction: column;\n  & > &__button {\n    width: 200px;\n  }\n}\n"]}
